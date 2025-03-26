@@ -10,3 +10,5 @@ In this app, you can access many features such as downloading videos, photos, an
 
 
 https://codeload.github.com/AROA-DEV/Instander/zip/refs/heads/main
+** Instander vs Instagram**
+Instander offers extra features like ad blocking and media downloads, but it's a modded app, so it comes with security risks. If you prioritize safety and official support, stick with Instagram. Get a complete guide from here https://instaapkzone.com/instander-vs-instagram-comparison/
